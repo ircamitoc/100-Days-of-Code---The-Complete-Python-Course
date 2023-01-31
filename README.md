@@ -1,1 +1,3 @@
-# 100-Days-of-Code---The-Complete-Python-Course
+100 Days of-Code: The Complete Python Course
+
+Day 1 ✅
