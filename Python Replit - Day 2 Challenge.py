@@ -1,0 +1,5 @@
+print("Getting to know you!\n")
+input1 = input("You are\n")
+input2 = input("You're probably hungry for\n")
+input3 = input("and you're definitely getting your groove on to\n")
+input4 = input("living in the amazing\n")
