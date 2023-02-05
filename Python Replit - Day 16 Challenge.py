@@ -11,4 +11,3 @@ while True:
     break
 
 print("You got the correct lyrics in", counter, "attempt(s).")
-  
